@@ -1,0 +1,9 @@
+[package]
+name = "visuals"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+eframe = "0.36"
+emulator.workspace = true
+demos.workspace = true
